@@ -1,0 +1,3 @@
+english,58.0
+calc,20.0
+discrete,600.0
